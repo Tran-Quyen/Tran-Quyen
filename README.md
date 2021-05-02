@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about technology like Analyst, Web, App, Data, AI, Service,...
 - 🔭 I’m currently working on Ha Noi
 - 💞️ I’m singled
-- 💬 Ask me about IT,software,how to work better
+- 💬 Ask me about IT, software, how to work better
 - 📫 How to reach me:
 - 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJava/
 - 👍 Instagrams: https://www.instagram.com/quyenutt2000/ 
