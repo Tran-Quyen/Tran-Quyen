@@ -9,9 +9,9 @@
 - 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJava/
 - 👍 Instagrams: https://www.instagram.com/quyenutt2000/ 
 - ✔️ Tweeter: https://twitter.com/ngTrnQuyn1
-- ✨ Phone Call: 0337846412 <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/earth.gif" width="22px">
+- ✨ Phone Call: 0337846412 
 - 😄 Pronouns: Mr.Quyen
-- ⚡ Fun fact: I like learning forever because I keep learning is addicted
+- ⚡ Fun fact: I like learning forever because I keep learning is addicted <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/earth.gif" width="22px">
 <!--
 **Tran-Quyen/Tran-Quyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
