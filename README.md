@@ -8,7 +8,7 @@
 - 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJava/
 - 👍 Instagrams: https://www.instagram.com/quyenutt2000/ 
 - ✔️ Tweeter: https://twitter.com/ngTrnQuyn1
-- ✨ Phone Call: 0337846412
+- ✨ Phone Call: 0337846412 <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/earth.gif" width="22px">
 - 😄 Pronouns: Mr.Quyen
 - ⚡ Fun fact: I like learning forever because I keep learning is addicted
 <!--
