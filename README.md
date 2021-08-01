@@ -125,3 +125,7 @@
 | Javascript |  60 hrs 27 mins | ████████████████████▓░░░░  | 82.29 % |
 | Other      | 100 hrs         | █████████████████████████  |   100 % |
 | Game       |  50 hrs 50 mins | ██████░░░░░░░░░░░░░░░░░░░ | 30.19 % |
+
+## Funny😄
+<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
+
