@@ -2,8 +2,8 @@
 <h2 align="center" id="h2_center">A Passionate Programming And Developer From Viet Nam <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/ width="40"></h2>
 
 #h2_center{
-  display: flex;
-  align-items: center;
+  height: 50px;
+  line-height: 50px;
 }
 
 #### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi"/> Hi, I’m Quyen Dang
