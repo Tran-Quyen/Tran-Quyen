@@ -21,7 +21,7 @@
 
 #### 👍 Instagrams: https://www.instagram.com/quyenutt2000/
 
-#### ✔️ Tweeter: https://twitter.com/ngTrnQuyn1
+#### ✔️ Twitter: https://twitter.com/ngTrnQuyn1
 
 #### ✨ Phone Call: 0337846412
 
