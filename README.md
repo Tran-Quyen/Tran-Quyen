@@ -123,13 +123,13 @@
 
 #### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tran-Quyen&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tran-Quyen&show_icons=true&theme=radical" alt="Github Stats" />
 
 #### Github Streak
 
 <p>
     <a href="#">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Tran-Quyen&theme=radical" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Tran-Quyen&theme=radical" alt="Github Streak" />
     </a>
 </p>
 
@@ -138,7 +138,7 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#Deploy-on-your-own-heroku-instance if graph do not load.. -->
 <p align="center">
     <a href="#">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Tran-Quyen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=Tran-Quyen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Github Graph" />
     </a>
 </p>
 
@@ -146,7 +146,7 @@
 
 <p>
     <a href="#">
-        <img src="https://github-profile-trophy.vercel.app/?username=Tran-Quyen&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Tran-Quyen&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" alt="Github Achievements" />
     </a>
 </p>
 
@@ -160,7 +160,7 @@
 
 ## Skills 🚀
 
-| Code       | Times          |         Speed Up          |    %%%% |
+| Code       | Times          |         Speed Up          | Percent |
 | :--------- | :------------- | :-----------------------: | ------: |
 | Backend    | 99 hrs 41 mins | ████████████████████▓░░░░ | 82.29 % |
 | Frontend   | 90 hrs 50 mins | ████████████████████▓░░░░ | 82.29 % |
