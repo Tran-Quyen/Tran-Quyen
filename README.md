@@ -123,7 +123,7 @@
 
 #### Github Stats
 
-[Quyen Dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tran-Quyen&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Tran-Quyen&show_icons=true&theme=radical" />
 
 #### Github Streak
 
