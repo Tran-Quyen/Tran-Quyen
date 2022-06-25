@@ -116,12 +116,12 @@
 
 #### Viet Nam Flag
 
-<img src="./resouces/Flag_of_Vietnam-Animated.gif" width="700"/>
+<img src="./resouces/Flag_of_Vietnam-Animated.gif" width="100%"/>
 
 #### Github Gift
 
-<img src="./resouces/Tran-Quyen-2021.gif" width="700" alt="Quyen Dang Tower">
-<img src="./resouces/develop.gif" width="700" alt="Quyen Dang Develop">
+<img src="./resouces/Tran-Quyen-2021.gif" width="100%" alt="Quyen Dang Tower">
+<img src="./resouces/develop.gif" width="100%" alt="Quyen Dang Develop">
 
 #### Github Stats
 
