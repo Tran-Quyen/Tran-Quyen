@@ -1,9 +1,11 @@
 <h1 align="center">Welcome To Quyen Dang Github </h1>
-<h2 align="center" id="h2_center"><span>A Passionate Programming And Developer From Viet Nam</span> <img src="./resouces/vietnam-circular.png" width="50"></h2>
+<h2 align="center" id="h2_center"><span>A Passionate Programming And Developer From Viet Nam</span> </h2>
 
 #### <img src="./resouces/hi.gif" width="28" alt="hi"/> Hi, I’m Quyen Dang
 
 #### <span>I'm Quyen Dang, currently I'm a Software Developper <img src="./resouces/developer-mini.gif" width="30"/>, passionate about solving problems with new technology and creating different solutions.</span><img src="./resouces/giphy.webp" width="24"/>
+
+<img src="./resouces/Flag_of_Vietnam-Animated.gif" width="700"/>
 
 #### 👀 I’m interested in technology
 
