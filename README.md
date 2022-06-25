@@ -120,8 +120,8 @@
 
 #### Github Gift
 
-<img src="./resouces/Tran-Quyen-2021.gif" width="100%" alt="Quyen Dang Tower">
-<img src="./resouces/develop.gif" width="100%" alt="Quyen Dang Develop">
+<img src="./resouces/Tran-Quyen-2021.gif" width="700" alt="Quyen Dang Tower">
+<img src="./resouces/develop.gif" width="700" alt="Quyen Dang Develop">
 
 #### Github Stats
 
