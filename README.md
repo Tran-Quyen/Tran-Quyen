@@ -17,7 +17,7 @@
 
 #### 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJS/
 
-#### 👍 Instagrams: https://www.instagram.com/quyenutt2000/
+#### 👍 Youtube: https://www.youtube.com/channel/UCa0VzFma3bpcw0wPE3drRXw
 
 #### ✔️ Twitter: https://twitter.com/ngTrnQuyn1
 
