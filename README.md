@@ -19,7 +19,7 @@
 
 #### 👍 Youtube: https://www.youtube.com/channel/UCa0VzFma3bpcw0wPE3drRXw
 
-#### ✔️ Twitter: https://twitter.com/ngTrnQuyn1
+#### ✔️ Twitter: https://twitter.com/QuynngTrn1
 
 #### ✨ Phone Call: 0337846412
 
