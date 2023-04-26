@@ -15,13 +15,11 @@
 
 #### 📫 How to reach me:
 
-#### 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJS/
+#### ✨ [Facebook](https://www.facebook.com/QuyenGiaSuJS)
 
-#### 👍 Youtube: https://www.youtube.com/channel/UCa0VzFma3bpcw0wPE3drRXw
+#### 🔥 [Youtube](https://www.youtube.com/channel/UCa0VzFma3bpcw0wPE3drRXw)
 
-#### ✔️ Twitter: https://twitter.com/QuynngTrn1
-
-#### ✨ Phone Call: 0337846412
+#### ✔️ [Twitter](https://twitter.com/QuynngTrn1) 
 
 #### 😄 Pronouns: Mr.Quyen
 
