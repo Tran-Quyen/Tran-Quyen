@@ -144,6 +144,12 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="#">
+         <img alt="snake eating my contributions" src="./resouces/github-contribution-grid-snake.svg" />
+    </a>
+</p>
+
 #### Github Achievements
 
 <p>
