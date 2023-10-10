@@ -140,7 +140,7 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#Deploy-on-your-own-heroku-instance if graph do not load.. -->
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tran-Quyen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Github Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tran-Quyen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Github Graph" />
     </a>
 </p>
 
