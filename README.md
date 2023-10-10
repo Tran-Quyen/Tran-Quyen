@@ -146,7 +146,7 @@
 
 <p align="center">
     <a href="#">
-         <img alt="snake eating my contributions" src="./resouces/github-contribution-grid-snake.svg" />
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tran-Quyen/Tran-Quyen/output/github-contribution-grid-snake.svg" />
     </a>
 </p>
 
