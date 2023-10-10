@@ -1,4 +1,7 @@
 <h1 align="center">Welcome To Quyen Dang Github </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quyen+Dang!;" />
+</h1>
 <h2 align="center" id="h2_center">A Passionate Programming And Developer From Viet Nam</h2>
 
 #### <span><img src="./resouces/hi.gif" width="28" alt="hi"/> Hi, I’m Quyen Dang, currently I'm a Software Developper <img src="./resouces/developer-mini.gif" width="30"/>, passionate about solving problems with new technology and creating different solutions.</span><img src="./resouces/giphy.webp" width="24"/>
