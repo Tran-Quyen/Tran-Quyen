@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To Quyen Dang Github </h1>
-<h2 align="center" id="h2_center"><span>A Passionate Programming And Developer From Viet Nam</span> </h2>
+<h2 align="center" id="h2_center">A Passionate Programming And Developer From Viet Nam</h2>
 
 #### <span><img src="./resouces/hi.gif" width="28" alt="hi"/> Hi, I’m Quyen Dang, currently I'm a Software Developper <img src="./resouces/developer-mini.gif" width="30"/>, passionate about solving problems with new technology and creating different solutions.</span><img src="./resouces/giphy.webp" width="24"/>
 
@@ -19,7 +19,7 @@
 
 #### 🔥 [Youtube](https://www.youtube.com/channel/UCa0VzFma3bpcw0wPE3drRXw)
 
-#### ✔️ [Twitter](https://twitter.com/QuynngTrn1) 
+#### ✔️ [Twitter](https://twitter.com/QuynngTrn1)
 
 #### 😄 Pronouns: Mr.Quyen
 
@@ -171,4 +171,3 @@
 ## Funny😄
 
 <img src="./resouces/funny.gif" alt="funny-gif-tranquyen" width="40%">
-
